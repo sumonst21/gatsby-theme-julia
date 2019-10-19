@@ -3,6 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: `Julia Doe`,
+    subtitle: `software developer`,
     description: `A minimal blog theme built with Gatsbyjs. The needed Gatsby files are included.`,
     author: `@niklasmtj`,
   },
